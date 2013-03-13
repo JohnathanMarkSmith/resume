@@ -74,4 +74,20 @@ Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with
 - Analyzed and developed the Statement Viewer. The Statement Viewer is a distributed system which allows the brokers to view client statements at a local workstation. The system will also reprint client statements on a local printer. This system was developed using Microsoft Visual 3.0 for Windows, Windows API, Borland C/C++ 3.1, MS-DOS Batch Files and Q+E MultiLink/VB.
 - Developed new systems for the New Client Statement group in Microsoft Visual Basic 3.0 for Windows, Borland C/C++ 3.1, Q+E MultiLink/ VB, CodeBasic and ISAM.
 
+<h2>PUBLICATIONS</h2>
 
+<h3>The Java Report – Java To Go<br>FEBRUARY 1998</h3>
+
+- Author of the article that was published on how to send email using java sockets.
+
+<h3>The Java Report – Java To Go<br>JANUARY 1998</h3>
+
+- Author of the article that was published on how to send objects over sockets.
+
+<h3>The Staten Island Java Group – Java Book and Product Reviews<br>APRIL 1996</h3>
+
+- Reviewing books on Java and software from major publishing firms for the Staten Island Java Group Web Site.
+
+<h3>The Cobb Group – Inside Visual Basic for Windows<br>MARCH 1994</h3>
+
+- Author of the article that was published on adding a screen trail to your Visual Basic for Windows applications.
