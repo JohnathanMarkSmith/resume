@@ -14,7 +14,7 @@ Servlets, XML, Java, Struts, PHP, LDAP, Android and Web Application Servers. I h
 Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with all levels of management.
 <p/>
 
-<h2>Employment History</h2>
+<h2>EXPERIENCE</h2>
 
 <h3>United Federation of Teachers ~ Architect / Senior Programmer ~ OCTOBER 2011 – PRESENT</h3>
 
