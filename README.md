@@ -45,6 +45,20 @@ Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with
 - Designed and developed a Bill Pay System in WebSphere Studio Application Developer 4.0 using Struts with HTML, Log4J and JavaScript. In the Bill Pay project I was also the Lead and I managed the day by day tasks for 6 programmers.
 - Designed and developed the LDAP Feed Writer system in Java using XML and the Netscape LDAP SDK. This system was use to produce feeds for other departments within UBS PaineWebber Inc. This system would read in a XML control file each night and produce the feeds for the departments within UBS PaineWebber Inc. from the Master LDAP server in XML, DSML, CSV and LDIF formats.
 
+<h3>Bear Stearns ~ Vice President ~ APRIL 2000 – JUNE 2000</h3>
+
+- Supported the bear.com group with debugging java source code and Unix scripts.
+
+<h3>Merrill Lynch ~ Assistant Vice President ~ AUGUST 1999 – APRIL 2000</h3>
+
+- Help support other groups within Merrill Lynch with designing web applications in HTML, Java and servlets.
+- Evaluated and tested new products for potential use by programmers to develop applications.
+
+<h3>National Securities Clearing Corporation ~ Business Analyst / Lead Developer ~ FEBRUARY 1998 – AUGUST 1999</h3>
+
+- Lead Developer for PC Web Direct. PC Web Direct will let the participants, service bureaus and branch offices login over the internet using digital certificates and a secure sockets layer to submit trades like ACATS, FITS and RECAPS to the National Securities Clearing Corporation to be processed each night. PC Web Direct was developed with HTML and JavaScript on the front-end and Java servlets and services on the back-end using a Sybase Database.
+- Designed and developed frameworks in Java 1.1.7 that will let programmers build servlets in Java while eliminating the need to build servlet source code from scratch. The framework manages a database connection pool for quick access to the database and sessions to track user information. It also keeps the servlets that are most commonly accessed in a global memory space resulting in a quicker response time. We have found that by using the framework development time has been cut down by 400%.
+
 
 
 
