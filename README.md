@@ -16,7 +16,7 @@ Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with
 
 <h2>EXPERIENCE</h2>
 
-<h3>United Federation of Teachers ~ Architect / Senior Programmer ~ OCTOBER 2011 – PRESENT</h3>
+<h3>United Federation of Teachers ~ Architect / Senior Programmer<br>OCTOBER 2011 – PRESENT</h3>
 
 - Designed and developed a number of applicants for the United Federation of Teachers in IntelliJ IDEA using Spring 3, Spring Security, Spring WebFlow2, Hibernate, Dojo, Ajax, HTML, JSP, JSTL, JSON, JQuery, Log4J, RESTful, MySQL, DB2, Maven, JUnit and LDAP for Teachers to log in and manage benefits.
 - Established continuous integration (CI) practices and standards for the UFTWF. Set up Jenkins server and build jobs to provide continuous automated builds based on polling the Git source control system during the day and periodic scheduled builds overnight to support development needs using Jenkins, Git, JUnit, Selenium and Maven.
