@@ -91,3 +91,44 @@ Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with
 <h3>The Cobb Group – Inside Visual Basic for Windows<br>MARCH 1994</h3>
 
 - Author of the article that was published on adding a screen trail to your Visual Basic for Windows applications.
+
+<h2>ACCOMPLISHMENTS</h2>
+
+<h3>SEPTEMBER 2011</h3>
+
+- Elected Group Leader of East Coast Android Java Group.
+
+<h3>SEPTEMBER 2007</h3>
+
+- Elected Group Leader of the Staten Island Java Group.
+
+<h3>MARCH 2007</h3>
+
+- Passed the Brain bench certification exam for Java 2.
+
+<h3>JANUARY 2007</h3>
+
+- Passed the Brain bench certification exam for JavaScript.
+- Passed the Brain bench certification exam for HTML 3.2.
+- Passed the Brain bench certification exam for Java 2.
+
+<h3>APRIL 1999</h3>
+
+- Elected Group Leader of the Staten Island Macromedia User Group.
+
+<h3>JANUARY 1998</h3>
+
+- Elected Group Leader of the Staten Island Java Group.
+
+<h3>JANUARY 1997</h3>
+
+- Elected Group Leader of the Staten Island Java Group.
+- Elected part of the Judges Panel for the Java Review Service (http://www.jars.com).
+
+<h3>APRIL 1996</h3>
+
+- Elected Group Leader of the Staten Island Java Group.
+
+<h3>DECEMBER 1994</h3>
+
+- Passed the Microsoft Visual Basic for Windows 3.0 Application Development Examination. Series 050.
