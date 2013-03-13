@@ -1,10 +1,4 @@
-<h1>Johnathan Mark Smith</h1>
-<pre>
-15 Coventry Loop
-Staten Island, NY 10312
-EMAIL: Johnathan.Mark.Smith@icloud.com
-PHONE: 646.574.9521
-</pre>
+<h1>Johnathan Mark Smith - Resume</h1>
 <h2>OBJECTIVE</h2>
 
 Over 24 years experience specializing in business technology in the areas of web application development and
@@ -63,9 +57,21 @@ Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with
 
 - Designed and developed the JManager Server. JManager server runs on the database servers and waits for new data files to come in. At the time which a new data file enters the server JManager will CRC the data file and load the data to an Oracle database on the staging server. JManager will then unload data from the staging server for each correspondent and push the data down to the correspondent site server and load it. JManager will also let you monitor the correspondent database servers from a remote computer. JManager was developed with Symantec Visual Café for Java Database Development Edition. 
 
+<h3>Prudential Securities ~ Senior Programmer / Analyst<br>OCTOBER 1995 – JUNE 1996</h3>
 
+- Intranet and Internet Technical Advisor for the mutual funds group.
+- Analyzed and developed the Mutual Fund Target Intranet System. The system was developed to keep track of mutual fund portfolios with JavaScript, Java, Perl, HTML and Microsoft Visual Basic 4.0.
 
+<h3>Capital Cities/ABC Inc ~ Programmer / Analyst<br>FEBRUARY 1995 – OCTOBER 1995</h3>
 
+- Analyzed and developed an Intranet Wardrobe Master System. The system was developed to keep track of all clothing movement within Capital Cities of the daytime group. The system was developed in HTML, Perl, Microsoft Visual Basic for Windows, Windows API and SQL Server.
+- Analyzed and developed an Intranet Breakdown Writer. The Breakdown Writer was developed to assist writers in making breakdowns. The system also feeds the Daytime Archive Database system. The Breakdown Writer was developed in HTML, Perl, Java, Microsoft Visual Basic 3.0 for Windows, Windows API and Word Basic 6.0.
 
+<h3>PaineWebber ~ Specialist / Programmer / Analyst<br>NOVEMBER 1989 – FEBRUARY 1995</h3>
+
+- Developed the Request To Operations System. The system was developed to allow Trust Officers to have a faster way to fill out a Request To Operations form. This system will also assist the Operations area in tracking requests and give management important measurement tools. The Request To Operations system was developed in Microsoft Visual Basic 3.0 for Windows, Windows API, Q+E MultiLink/VB 2.01, Crystal Reports and Borland C++ 4.0.
+- Analyzed and developed a client/server system to call outside banks to send daily transaction files. After sending the daily transactions files, the system will receive transaction files back from the banks and validate the data in the files. This system was developed in Microsoft Visual Basic 3.0 for Windows, Microsoft Access 2.0, Procomm Plus Aspect for Windows, Borland C++ 4.0 and Visual C++ 1.5.
+- Analyzed and developed the Statement Viewer. The Statement Viewer is a distributed system which allows the brokers to view client statements at a local workstation. The system will also reprint client statements on a local printer. This system was developed using Microsoft Visual 3.0 for Windows, Windows API, Borland C/C++ 3.1, MS-DOS Batch Files and Q+E MultiLink/VB.
+- Developed new systems for the New Client Statement group in Microsoft Visual Basic 3.0 for Windows, Borland C/C++ 3.1, Q+E MultiLink/ VB, CodeBasic and ISAM.
 
 
