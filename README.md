@@ -132,3 +132,15 @@ Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with
 <h3>DECEMBER 1994</h3>
 
 - Passed the Microsoft Visual Basic for Windows 3.0 Application Development Examination. Series 050.
+
+<h2>EDUCATION</h2>
+
+<h3>Chubb Institute of Technology ~ Computer Programming<br>MARCH 1991 – MAY 1991</h3>
+
+- VS COBOL II Release 3.01.
+- OS/JCL.
+- VSAM/IDCAMS.
+
+<h3>Kings Borough Community College ~ Computer Programming<br>NOVEMBER 1989 – NOVEMBER 1991</h3>
+
+- Computer Programming.
