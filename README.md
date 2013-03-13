@@ -59,6 +59,9 @@ Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with
 - Lead Developer for PC Web Direct. PC Web Direct will let the participants, service bureaus and branch offices login over the internet using digital certificates and a secure sockets layer to submit trades like ACATS, FITS and RECAPS to the National Securities Clearing Corporation to be processed each night. PC Web Direct was developed with HTML and JavaScript on the front-end and Java servlets and services on the back-end using a Sybase Database.
 - Designed and developed frameworks in Java 1.1.7 that will let programmers build servlets in Java while eliminating the need to build servlet source code from scratch. The framework manages a database connection pool for quick access to the database and sessions to track user information. It also keeps the servlets that are most commonly accessed in a global memory space resulting in a quicker response time. We have found that by using the framework development time has been cut down by 400%.
 
+<h3>Pershing ~ Systems Engineer<br>JULY 1996 – FEBRUARY 1998</h3>
+
+- Designed and developed the JManager Server. JManager server runs on the database servers and waits for new data files to come in. At the time which a new data file enters the server JManager will CRC the data file and load the data to an Oracle database on the staging server. JManager will then unload data from the staging server for each correspondent and push the data down to the correspondent site server and load it. JManager will also let you monitor the correspondent database servers from a remote computer. JManager was developed with Symantec Visual Café for Java Database Development Edition. 
 
 
 
