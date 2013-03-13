@@ -1,6 +1,6 @@
 <h1>Johnathan Mark Smith</h1>
 <pre>
-15 Coventry Loop   OVENTRY LOOP
+15 Coventry Loop
 Staten Island, NY 10312
 EMAIL: Johnathan.Mark.Smith@icloud.com
 PHONE: 646.574.9521
