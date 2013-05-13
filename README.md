@@ -1,7 +1,7 @@
 <h1>Johnathan Mark Smith - Resume</h1>
 <h2>OBJECTIVE</h2>
 
-Over 24 years experience specializing in business technology in the areas of web application development and
+Over 25 years experience specializing in business technology in the areas of web application development and
 collaborative computing. I would like to work as an architect-developer for applications or product development. I am
 particularly interested in organizations that use leading technologies such as Springs, WebFlow, Maven, JUnit, JSP’s,
 Servlets, XML, Java, Struts, PHP, LDAP, Android and Web Application Servers. I have a very solid background with
