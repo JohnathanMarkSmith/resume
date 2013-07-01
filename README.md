@@ -13,14 +13,14 @@ Languages:
 Java, JavaScript, HTML, PHP, SQL, PL/SQL, CSS, Perl, Korn Shell, Visual Basic, COBOL
 
 Standards and Frameworks: 
-Spring, Spring WebFlow 2, Spring Batch, Servlets, Hibernate, Maven, JUnit, Struts 1 & 2, 
+Spring, Spring WebFlow 2, Spring Batch, Spring Data, Servlets, Hibernate, Maven, JUnit, Struts 1 & 2, 
 AJAX, DOM, Dojo, DHML, XML, J2EE, JSP’s, JSF, JME, JDBC, JSON, JQuery, PHP, SAX, RESTful, Android SDK
 
 Application Servers:
 JBoss, Tomcat, IBM WebSphere, JRun
 
 Databases:
-MYSQL, MariaDB, DB2, Oracle, HyperSQL, Microsoft Access, PL/SQL, SQLLite, Sybase
+MYSQL, MariaDB, DB2, MongoDB, Oracle, HyperSQL, Microsoft Access, PL/SQL, SQLLite, Sybase
 
 Directory Services:
 OpenLDAP, Active Directory, NIS, NIS+
