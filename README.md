@@ -3,7 +3,7 @@
 
 Over 25 years experience specializing in business technology in the areas of web application development and
 collaborative computing. I would like to work as an architect-developer for applications or product development. I am
-particularly interested in organizations that use leading technologies such as Springs, WebFlow, Maven, JUnit, JSP���s,
+particularly interested in organizations that use leading technologies such as Springs, WebFlow, Maven, JUnit, JSP's,
 Servlets, XML, Java, Struts, PHP, LDAP, Android and Web Application Servers. I have a very solid background with
 Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with all levels of management.
 <p/>
