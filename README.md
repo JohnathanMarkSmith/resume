@@ -135,6 +135,10 @@ IBM HTTP Server, Netscape and Apache
 
 <h2>ACCOMPLISHMENTS</h2>
 
+<h3>DECEMBER 2014</h3>
+
+- Passed MongoDB for Developers class. Out of the 3,435 students enrolled, 549 students completed the course successfully.
+
 <h3>SEPTEMBER 2011</h3>
 
 - Elected Group Leader of East Coast Android Java Group.
