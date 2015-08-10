@@ -1,11 +1,8 @@
 <h1>Johnathan Mark Smith - Resume</h1>
 <h2>OBJECTIVE</h2>
 
-Over 25 years experience specializing in business technology in the areas of web application development and
-collaborative computing. I would like to work as an architect-developer for applications or product development. I am
-particularly interested in organizations that use leading technologies such as Springs, WebFlow, Maven, JUnit, JSP's,
-Servlets, XML, Java, Struts, PHP, LDAP, Android and Web Application Servers. I have a very solid background with
-Java, OOP, Design-Patterns and Multi-Threading. I am also able to interface with all levels of management.
+Over 29 years experience specializing in business technology. I am particularly interested in organizations that use leading technologies and Web Application Servers.  I am also able to interface with all levels of management.
+
 <p/>
 
 <pre>
@@ -43,8 +40,12 @@ IBM HTTP Server, Netscape and Apache
 
 <h3>PSCU ~ Engineer, Software Development<br>SEPTEMBER 2013 - PRESENT</h3>
 
-- Project lead on the CallPro3 project. Debugged and fixed production issues in Java.
-- Established continuous integration (CI) practices and standards for the UFTWF. Set up Jenkins server and build jobs to provide continuous automated builds based on polling the Git source control system during the day and periodic scheduled builds overnight to support development needs using Jenkins, Git, JUnit.
+- Responsible for installation, tailoring, configuring and supporting of Linux test and production servers.
+- Ensure that the company policies and standards are adhered to.
+- Established continuous integration (CI) practices and standards for PSCU with JIRA, Jenkins, Bamboo and Stash. After setting up the products on Linux I trained  a number of development groups on the products.
+- Project lead on the CallPro3 project. Debugged and fixed production issues.
+-  Setting up Linux servers with JBoss, Apache, JDK 1.7, JIRA, Bamboo, Stash and Git. I also support other groups with products on Linux servers.
+
 
 <h3>United Federation of Teachers ~ Architect / Senior Programmer<br>OCTOBER 2011 - AUGEST 2013</h3>
 
